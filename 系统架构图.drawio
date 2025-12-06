@@ -10,7 +10,7 @@
         <mxCell id="4ze5jkDX89w2EHFtx0yg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" value="" vertex="1">
           <mxGeometry height="85" width="510" x="210" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="4ze5jkDX89w2EHFtx0yg-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="存储" vertex="1">
+        <mxCell id="4ze5jkDX89w2EHFtx0yg-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="数据层" vertex="1">
           <mxGeometry height="80" width="110" x="90" y="430" as="geometry" />
         </mxCell>
         <mxCell id="4ze5jkDX89w2EHFtx0yg-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" value="Mysql" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="4ze5jkDX89w2EHFtx0yg-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" value="Kafka" vertex="1">
           <mxGeometry height="40" width="70" x="620" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="4ze5jkDX89w2EHFtx0yg-15" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="基础支撑" vertex="1">
+        <mxCell id="4ze5jkDX89w2EHFtx0yg-15" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="基础设施" vertex="1">
           <mxGeometry height="75" width="110" x="90" y="540" as="geometry" />
         </mxCell>
         <mxCell id="4ze5jkDX89w2EHFtx0yg-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" value="飞腾" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="4ze5jkDX89w2EHFtx0yg-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" value="战术边缘" vertex="1">
           <mxGeometry height="40" width="70" x="620" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="4ze5jkDX89w2EHFtx0yg-36" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="具体应用" vertex="1">
+        <mxCell id="4ze5jkDX89w2EHFtx0yg-36" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="应用层" vertex="1">
           <mxGeometry height="130" width="110" x="90" y="130" as="geometry" />
         </mxCell>
         <mxCell id="4ze5jkDX89w2EHFtx0yg-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=13;" value="" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="4ze5jkDX89w2EHFtx0yg-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" value="消息中心" vertex="1">
           <mxGeometry height="40" width="70" x="520" y="208" as="geometry" />
         </mxCell>
-        <mxCell id="CWJpGSvMX44sKLW_iJHe-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="用户" vertex="1">
+        <mxCell id="CWJpGSvMX44sKLW_iJHe-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontSize=13;" value="用户层" vertex="1">
           <mxGeometry height="130" width="110" x="90" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="CWJpGSvMX44sKLW_iJHe-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=13;" value="" vertex="1">
